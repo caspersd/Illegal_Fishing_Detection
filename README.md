@@ -60,8 +60,8 @@ By analyzing geospatial vessel movements, we classify whether a vessel is active
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/IUU_Fishing_Detection.git
-   cd IUU_Fishing_Detection```
+   git clone git clone https://github.com/caspersd/Illegal_Fishing_Detection.git
+   cd Illegal_Fishing_Detection```
 
 2. Open Fishing_Activity_Detection_Full_Code.ipynb in Jupyter Notebook to explore the code and experiment with models.
 
